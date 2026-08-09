@@ -70,7 +70,7 @@
 
     <!-- jackson versions -->
     <jackson2.version>2.14.3</jackson2.version>
-    <jackson2.databind.version>2.14.3</jackson2.databind.version>
+    <jackson2.databind.version>2.15.0</jackson2.databind.version>
 
     <!-- httpcomponents versions -->
     <httpclient.version>4.5.13</httpclient.version>
@@ -121,7 +121,7 @@
     <commons-cli.version>1.9.0</commons-cli.version>
     <commons-codec.version>1.15</commons-codec.version>
     <commons-collections4.version>4.4</commons-collections4.version>
-    <commons-compress.version>1.26.1</commons-compress.version>
+    <commons-compress.version>1.28.0</commons-compress.version>
     <commons-csv.version>1.9.0</commons-csv.version>
     <commons-io.version>2.16.1</commons-io.version>
     <commons-lang3.version>3.17.0</commons-lang3.version>
